@@ -1,6 +1,6 @@
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+### <picture> <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FMaydear-Stamped-Embroidery-Starter-Beginners%2Fdp%2FB08FJBCF3P&psig=AOvVaw38s2lGe4jmAt4jiOmiCGff&ust=1731865951431000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCLo8u14YkDFQAAAAAdAAAAABAE" width = 20px>  </picture> Programming languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
