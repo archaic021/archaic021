@@ -75,4 +75,4 @@
 </p>
 <br>
 
-![]https://github.com/archaic021/archaic021/blob/main/Gemini_Generated_Image_n7h7o8n7h7o8n7h7.png
+![](https://github.com/archaic021/archaic021/blob/main/Gemini_Generated_Image_n7h7o8n7h7o8n7h7.png)
