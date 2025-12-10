@@ -7,7 +7,8 @@
 <br>
  I am currently an undergraduate at Computer Science Engineering .
  <br>
- I would love to colaborate on any project. Feel free to connect with me. :)
+ Eager to LEarn more and to do such innovative things 💡 around my surrounding fields .. ;/
+~ aka Antent
  
 
 ## 🛠️ My Skills
