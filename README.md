@@ -1,4 +1,4 @@
-[](https://github.com/xor-11/xor-11/blob/236a1eec7f159d2e801dfb6d94e0cceead0a693d/template/XOR-11_20240919_122943_0002.gif)
+[](https://github.com/archaic021/archaic021-Antent-s-/blob/main/template.gif)
 
 # Hi I'm Abhirup Ghosh👋
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirup-ghosh-304541372/)](https://www.linkedin.com/in/abhirup-ghosh-304541372/)
