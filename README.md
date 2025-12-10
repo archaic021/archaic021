@@ -1,4 +1,4 @@
-[](https://github.com/archaic021/archaic021-Antent-s-/blob/main/template.gif)
+![](https://github.com/archaic021/archaic021-Antent-s-/blob/main/template.gif)
 
 # Hi I'm Abhirup Ghosh👋
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirup-ghosh-304541372/)](https://www.linkedin.com/in/abhirup-ghosh-304541372/)
